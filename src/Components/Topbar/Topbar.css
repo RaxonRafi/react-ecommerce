@@ -1,0 +1,19 @@
+.top-bar{
+    background-color: #1A1A1B;
+    width: 100vw;
+    min-height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.minicart{
+    font-weight: bold;
+    color: #F33838;
+  
+}
+.icon{
+    padding: 10px;
+    font-size: 50px; 
+}
