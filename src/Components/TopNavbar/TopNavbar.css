@@ -1,19 +1,27 @@
 .top-nav-bar{
     background-color: #1A1A1B;
-    width: 100vw;
     min-height: 5rem;
     display: flex;
     align-items: center;
-    padding-left: 100px;
+    padding-left: 100px; 
     padding-right: 100px;
 }
 .nav-menu{
    font-weight: 500;
    font-size: 20px;
    line-height: 30px;
-}
-.nav-items{
-    color: #FCF6F6;
-    padding-right: 105px !important;
+   list-style: none;
 
+}
+.nav-items {
+    color: #FCF6F6 !important;
+    padding-right: 105px !important;
+    list-style: none;
+
+}
+.nav-link{
+    color: #FCF6F6 !important;
+}
+.dropdown-toggle::after{
+    display: none;
 }

@@ -1,6 +1,7 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Topbar from './Components/Topbar/Topbar'
+import HomeBanner from './Components/HomeBanner/HomeBanner';
 
 function App() {
  
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
      <Topbar/>
+     <HomeBanner/>
     </>
   )
 }
