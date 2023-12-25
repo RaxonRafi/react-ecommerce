@@ -1,0 +1,39 @@
+.image-box-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .img-fluid {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 80%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    width: 100%;
+  }
+  
+ .overlay span{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #B4B4B4;
+
+  }
+  .heading-text {
+
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+
+  }
+  .overlay img{
+    padding-left: 50px;
+  }
