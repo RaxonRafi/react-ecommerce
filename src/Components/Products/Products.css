@@ -1,0 +1,36 @@
+.product-title h3{
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.cuttoff{
+    color: #737373;
+}
+.product-title span{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+}
+.list-items li{
+
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #737373;
+
+}
+.product-card{
+    border: none;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}

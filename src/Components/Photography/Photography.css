@@ -1,0 +1,84 @@
+.photography-contents h3{
+
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.photography-contents span{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+}
+.search-icon{
+    color: #F33838;
+    
+}
+.search{
+    padding: 15px;
+}
+.search span{
+    color: #737373;
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.img-editing h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.img-editing .img-1{
+    width: 60%;
+}
+.img-editing span{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.read-more span{
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #737373;
+    padding-bottom: 0px;
+
+}
+.read-more {
+    border-radius: 1px solid gray;
+    width:40%;
+
+}
+.image-gap{
+    gap: 2rem;
+}
+
+.read-more hr{
+    margin: 0;
+}
+
+.divFormat{
+    width: 365px;
+    height: 90px;
+
+}

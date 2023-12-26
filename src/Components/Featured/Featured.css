@@ -1,0 +1,106 @@
+.featured-contents h3{
+
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.photography-contents h4{
+
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+}
+.photography-contents span{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+    
+}
+.search-icon{
+    color: #F33838;
+    
+}
+.search{
+    padding: 15px;
+}
+.search span{
+    color: #737373;
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.featured-img-editing h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.featured-img-editing .img-1{
+    width: 75px;
+    height: 75px;
+}
+
+.read-more span{
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #737373;
+    padding-bottom: 0px;
+
+}
+.read-more {
+    border-radius: 1px solid gray;
+    width:40%;
+
+}
+
+.sellerName{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.sellertitle{
+
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1A1A1B;
+    
+}
+.features li{
+
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #737373;
+    
+}

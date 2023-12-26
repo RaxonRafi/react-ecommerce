@@ -4,7 +4,6 @@ import slideImg1 from '../../assets/Rectangle 7.png'
 import slideImg2 from '../../assets/Rectangle 7 (1).png'
 import slideImg3 from '../../assets/Rectangle 7 (2).png'
 import forwardImg from '../../assets/material-symbols_arrow-forward.png'
-import {Container} from 'react-bootstrap';
 
 const HomeBanner = () => {
     return (
